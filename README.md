@@ -1,2 +1,2 @@
 # stein-drite
-it's art.
+it was art.
